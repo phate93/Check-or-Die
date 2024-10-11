@@ -78,5 +78,5 @@ $config['anti_spam_timer'] =  "20";
 | array('sk1','sk2','sk3')
 |
 */
-$config['sk_keys'] =  array('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');
+$config['sk_keys'] =  array('');
 ?>
